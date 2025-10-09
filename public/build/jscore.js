@@ -22703,6 +22703,13 @@ var host = document.location.host;
 // var root = (host.includes(".byethost")?"https://"+host+"/chat/":document.baseURI);
 var root = "./build/";
 
+
+var appconfig={
+    upload:"chat.donggiatri.com/upload.php",
+    domain:"http://chat.donggiatri.com/",
+    api_key:"Test"
+};
+ 
  
  
 
