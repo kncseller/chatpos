@@ -28,12 +28,13 @@ export default function RootLayout({
     <html lang="en">
       <head>
          
-     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+     <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+  <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
   <meta name="apple-mobile-web-app-title" content="My App" />
   <meta name="apple-mobile-web-app-capable" content="yes" /> 
-  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />        
+  <meta httpEquiv="Content-Security-Policy" content="upgrade-insecure-requests" />        
   <meta name="auth-token" content="" />
+  <meta name="auth-hash" content="" /> 
     <meta name="theme-color" content="#2196f3" />
 
  <meta name="viewport" content="viewport-fit=cover,width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0" />
